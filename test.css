@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.test{
+    color: blue;
+    /* cursor: pointer; */
+    /* cursor: url("images/product-2.jpg"),auto; */
+}
